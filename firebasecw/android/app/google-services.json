@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066197753009",
+    "project_id": "firebas-cw4360",
+    "storage_bucket": "firebas-cw4360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066197753009:android:209f6eeee2d39d4d995690",
+        "android_client_info": {
+          "package_name": "com.example.firebasecw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7o0edFchN8vJYpUeqXYjqpwWCvzGLUcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
